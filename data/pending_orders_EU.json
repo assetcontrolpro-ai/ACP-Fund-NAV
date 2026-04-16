@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "exec_date": "2026-04-16",
+    "selected": [
+      "BPE.MI",
+      "STAN.L",
+      "SAB.MC",
+      "BMED.MI",
+      "SAN.MC",
+      "BARC.L",
+      "ISP.MI",
+      "WRT1V.HE",
+      "UCG.MI",
+      "BBVA.MC",
+      "SAND.ST",
+      "FBK.MI"
+    ]
+  }
+]
