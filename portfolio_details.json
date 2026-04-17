@@ -1,0 +1,945 @@
+{
+  "us_a_10": {
+    "positions": [
+      {
+        "ticker": "AMAT",
+        "entry_date": "2026-04-02",
+        "entry_price": 348.47
+      },
+      {
+        "ticker": "ANET",
+        "entry_date": "2026-04-16",
+        "entry_price": 161.01
+      },
+      {
+        "ticker": "AVGO",
+        "entry_date": "2024-09-17",
+        "entry_price": 159.73
+      },
+      {
+        "ticker": "CCL",
+        "entry_date": "2026-04-16",
+        "entry_price": 27.31
+      },
+      {
+        "ticker": "DELL",
+        "entry_date": "2026-04-16",
+        "entry_price": 193.09
+      },
+      {
+        "ticker": "GEV",
+        "entry_date": "2025-12-02",
+        "entry_price": 600.77
+      },
+      {
+        "ticker": "KLAC",
+        "entry_date": "2026-03-03",
+        "entry_price": 1441.35
+      },
+      {
+        "ticker": "LRCX",
+        "entry_date": "2025-09-16",
+        "entry_price": 119.89
+      },
+      {
+        "ticker": "NVDA",
+        "entry_date": "2024-01-16",
+        "entry_price": 56.35
+      },
+      {
+        "ticker": "UAL",
+        "entry_date": "2025-08-18",
+        "entry_price": 102.37
+      }
+    ],
+    "rebalancings": [
+      {
+        "date": "2026-04-16",
+        "sells": [
+          "FIX",
+          "Q",
+          "WDC"
+        ],
+        "buys": [
+          "ANET",
+          "CCL",
+          "DELL"
+        ]
+      },
+      {
+        "date": "2026-04-02",
+        "sells": [
+          "ANET"
+        ],
+        "buys": [
+          "AMAT"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "sells": [
+          "AMAT"
+        ],
+        "buys": [
+          "FIX"
+        ]
+      },
+      {
+        "date": "2026-03-03",
+        "sells": [
+          "CIEN",
+          "FIX",
+          "TER"
+        ],
+        "buys": [
+          "AMAT",
+          "ANET",
+          "KLAC"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "sells": [
+          "AMAT",
+          "ANET",
+          "KLAC"
+        ],
+        "buys": [
+          "CIEN",
+          "Q",
+          "WDC"
+        ]
+      },
+      {
+        "date": "2026-01-02",
+        "sells": [
+          "AMD"
+        ],
+        "buys": [
+          "FIX"
+        ]
+      },
+      {
+        "date": "2025-12-16",
+        "sells": [
+          "DELL"
+        ],
+        "buys": [
+          "AMD"
+        ]
+      },
+      {
+        "date": "2025-12-02",
+        "sells": [
+          "AMD",
+          "MU",
+          "VST"
+        ],
+        "buys": [
+          "AMAT",
+          "DELL",
+          "GEV"
+        ]
+      },
+      {
+        "date": "2025-11-18",
+        "sells": [
+          "DELL",
+          "MPWR"
+        ],
+        "buys": [
+          "ANET",
+          "VST"
+        ]
+      },
+      {
+        "date": "2025-11-04",
+        "sells": [
+          "ANET",
+          "GEV"
+        ],
+        "buys": [
+          "MPWR",
+          "TER"
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "sells": [
+          "KKR"
+        ],
+        "buys": [
+          "AMD"
+        ]
+      },
+      {
+        "date": "2025-10-02",
+        "sells": [
+          "HOOD",
+          "VST"
+        ],
+        "buys": [
+          "DELL",
+          "GEV"
+        ]
+      },
+      {
+        "date": "2025-09-16",
+        "sells": [
+          "CCL",
+          "COIN",
+          "GEV",
+          "PLTR"
+        ],
+        "buys": [
+          "HOOD",
+          "KLAC",
+          "LRCX",
+          "MU"
+        ]
+      },
+      {
+        "date": "2025-09-02",
+        "sells": [
+          "DELL",
+          "KLAC"
+        ],
+        "buys": [
+          "CCL",
+          "COIN"
+        ]
+      },
+      {
+        "date": "2025-08-18",
+        "sells": [
+          "CCL"
+        ],
+        "buys": [
+          "UAL"
+        ]
+      },
+      {
+        "date": "2025-08-04",
+        "sells": [
+          "MU"
+        ],
+        "buys": [
+          "CCL"
+        ]
+      },
+      {
+        "date": "2025-07-02",
+        "sells": [
+          "CRWD"
+        ],
+        "buys": [
+          "MU"
+        ]
+      },
+      {
+        "date": "2025-06-17",
+        "sells": [
+          "CCL"
+        ],
+        "buys": [
+          "KLAC"
+        ]
+      },
+      {
+        "date": "2025-06-03",
+        "sells": [
+          "KLAC"
+        ],
+        "buys": [
+          "CRWD"
+        ]
+      },
+      {
+        "date": "2025-04-16",
+        "sells": [
+          "CRWD"
+        ],
+        "buys": [
+          "ANET"
+        ]
+      }
+    ],
+    "hall_of_fame": [
+      {
+        "ticker": "TER",
+        "entry_date": "2025-11-04",
+        "exit_date": "2026-03-03",
+        "entry_price": 175.44,
+        "exit_price": 304.22,
+        "pnl_pct": 73.4,
+        "days": 119
+      },
+      {
+        "ticker": "FIX",
+        "entry_date": "2026-01-02",
+        "exit_date": "2026-03-03",
+        "entry_price": 1003.12,
+        "exit_price": 1390.44,
+        "pnl_pct": 38.61,
+        "days": 60
+      },
+      {
+        "ticker": "AMAT",
+        "entry_date": "2025-12-02",
+        "exit_date": "2026-02-17",
+        "entry_price": 265.0,
+        "exit_price": 358.68,
+        "pnl_pct": 35.35,
+        "days": 77
+      },
+      {
+        "ticker": "WDC",
+        "entry_date": "2026-02-17",
+        "exit_date": "2026-04-16",
+        "entry_price": 283.97,
+        "exit_price": 361.69,
+        "pnl_pct": 27.37,
+        "days": 58
+      },
+      {
+        "ticker": "Q",
+        "entry_date": "2026-02-17",
+        "exit_date": "2026-04-16",
+        "entry_price": 111.87,
+        "exit_price": 131.3,
+        "pnl_pct": 17.37,
+        "days": 58
+      }
+    ],
+    "currency": "USD",
+    "last_updated": "2026-04-17 15:15 UTC"
+  },
+  "us_b_10": {
+    "positions": [
+      {
+        "ticker": "AAPL",
+        "entry_date": "2026-03-03",
+        "entry_price": 263.75
+      },
+      {
+        "ticker": "AXP",
+        "entry_date": "2026-04-02",
+        "entry_price": 300.18
+      },
+      {
+        "ticker": "CFG",
+        "entry_date": "2026-04-16",
+        "entry_price": 64.41
+      },
+      {
+        "ticker": "CMI",
+        "entry_date": "2026-02-17",
+        "entry_price": 593.66
+      },
+      {
+        "ticker": "DD",
+        "entry_date": "2026-02-03",
+        "entry_price": 45.12
+      },
+      {
+        "ticker": "GS",
+        "entry_date": "2025-02-04",
+        "entry_price": 618.24
+      },
+      {
+        "ticker": "JCI",
+        "entry_date": "2026-03-17",
+        "entry_price": 132.56
+      },
+      {
+        "ticker": "MS",
+        "entry_date": "2025-05-16",
+        "entry_price": 129.75
+      },
+      {
+        "ticker": "PH",
+        "entry_date": "2024-05-02",
+        "entry_price": 520.35
+      },
+      {
+        "ticker": "TEL",
+        "entry_date": "2025-12-16",
+        "entry_price": 226.22
+      }
+    ],
+    "rebalancings": [
+      {
+        "date": "2026-04-16",
+        "sells": [
+          "C"
+        ],
+        "buys": [
+          "CFG"
+        ]
+      },
+      {
+        "date": "2026-04-02",
+        "sells": [
+          "CAT"
+        ],
+        "buys": [
+          "AXP"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "sells": [
+          "CRH"
+        ],
+        "buys": [
+          "JCI"
+        ]
+      },
+      {
+        "date": "2026-03-03",
+        "sells": [
+          "AXP",
+          "CFG"
+        ],
+        "buys": [
+          "AAPL",
+          "CRH"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "sells": [
+          "JCI"
+        ],
+        "buys": [
+          "CMI"
+        ]
+      },
+      {
+        "date": "2026-02-03",
+        "sells": [
+          "GE"
+        ],
+        "buys": [
+          "DD"
+        ]
+      },
+      {
+        "date": "2026-01-16",
+        "sells": [
+          "CRH"
+        ],
+        "buys": [
+          "CFG"
+        ]
+      },
+      {
+        "date": "2026-01-02",
+        "sells": [
+          "AAPL",
+          "EMR"
+        ],
+        "buys": [
+          "CRH",
+          "GE"
+        ]
+      },
+      {
+        "date": "2025-12-16",
+        "sells": [
+          "GE",
+          "GLW",
+          "TRMB"
+        ],
+        "buys": [
+          "AAPL",
+          "EMR",
+          "TEL"
+        ]
+      },
+      {
+        "date": "2025-12-02",
+        "sells": [
+          "EMR"
+        ],
+        "buys": [
+          "GLW"
+        ]
+      },
+      {
+        "date": "2025-11-18",
+        "sells": [
+          "TFC"
+        ],
+        "buys": [
+          "EMR"
+        ]
+      },
+      {
+        "date": "2025-11-04",
+        "sells": [
+          "APH",
+          "HBAN"
+        ],
+        "buys": [
+          "TFC",
+          "TRMB"
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "sells": [
+          "TFC"
+        ],
+        "buys": [
+          "HBAN"
+        ]
+      },
+      {
+        "date": "2025-10-02",
+        "sells": [
+          "HBAN"
+        ],
+        "buys": [
+          "CAT"
+        ]
+      },
+      {
+        "date": "2025-08-18",
+        "sells": [
+          "CAT",
+          "EMR"
+        ],
+        "buys": [
+          "HBAN",
+          "TFC"
+        ]
+      },
+      {
+        "date": "2025-07-16",
+        "sells": [
+          "HBAN"
+        ],
+        "buys": [
+          "EMR"
+        ]
+      },
+      {
+        "date": "2025-07-02",
+        "sells": [
+          "EMR"
+        ],
+        "buys": [
+          "CAT"
+        ]
+      },
+      {
+        "date": "2025-06-17",
+        "sells": [
+          "CAT"
+        ],
+        "buys": [
+          "HBAN"
+        ]
+      },
+      {
+        "date": "2025-06-03",
+        "sells": [
+          "INTU"
+        ],
+        "buys": [
+          "EMR"
+        ]
+      },
+      {
+        "date": "2025-05-16",
+        "sells": [
+          "GOOG",
+          "ISRG"
+        ],
+        "buys": [
+          "INTU",
+          "MS"
+        ]
+      }
+    ],
+    "hall_of_fame": [
+      {
+        "ticker": "EMR",
+        "entry_date": "2025-11-18",
+        "exit_date": "2025-12-02",
+        "entry_price": 126.26,
+        "exit_price": 131.33,
+        "pnl_pct": 4.02,
+        "days": 14
+      },
+      {
+        "ticker": "GLW",
+        "entry_date": "2025-12-02",
+        "exit_date": "2025-12-16",
+        "entry_price": 83.55,
+        "exit_price": 86.13,
+        "pnl_pct": 3.09,
+        "days": 14
+      },
+      {
+        "ticker": "TFC",
+        "entry_date": "2025-11-04",
+        "exit_date": "2025-11-18",
+        "entry_price": 42.79,
+        "exit_price": 43.9,
+        "pnl_pct": 2.59,
+        "days": 14
+      },
+      {
+        "ticker": "TRMB",
+        "entry_date": "2025-11-04",
+        "exit_date": "2025-12-16",
+        "entry_price": 78.6,
+        "exit_price": 80.5,
+        "pnl_pct": 2.42,
+        "days": 42
+      },
+      {
+        "ticker": "EMR",
+        "entry_date": "2025-12-16",
+        "exit_date": "2026-01-02",
+        "entry_price": 133.57,
+        "exit_price": 135.3,
+        "pnl_pct": 1.3,
+        "days": 17
+      }
+    ],
+    "currency": "USD",
+    "last_updated": "2026-04-17 15:15 UTC"
+  },
+  "eur_12": {
+    "positions": [
+      {
+        "ticker": "BARC.L",
+        "entry_date": "2024-12-03",
+        "entry_price": 255.97
+      },
+      {
+        "ticker": "BBVA.MC",
+        "entry_date": "2026-04-02",
+        "entry_price": 18.29
+      },
+      {
+        "ticker": "BMED.MI",
+        "entry_date": "2026-03-03",
+        "entry_price": 17.25
+      },
+      {
+        "ticker": "BPE.MI",
+        "entry_date": "2025-12-16",
+        "entry_price": 10.92
+      },
+      {
+        "ticker": "FBK.MI",
+        "entry_date": "2026-04-16",
+        "entry_price": 21.59
+      },
+      {
+        "ticker": "ISP.MI",
+        "entry_date": "2026-02-03",
+        "entry_price": 6.07
+      },
+      {
+        "ticker": "SAB.MC",
+        "entry_date": "2025-11-18",
+        "entry_price": 3.03
+      },
+      {
+        "ticker": "SAN.MC",
+        "entry_date": "2025-09-02",
+        "entry_price": 7.97
+      },
+      {
+        "ticker": "SAND.ST",
+        "entry_date": "2026-04-16",
+        "entry_price": 397.3
+      },
+      {
+        "ticker": "STAN.L",
+        "entry_date": "2025-11-04",
+        "entry_price": 1557.99
+      },
+      {
+        "ticker": "UCG.MI",
+        "entry_date": "2024-08-16",
+        "entry_price": 33.67
+      },
+      {
+        "ticker": "WRT1V.HE",
+        "entry_date": "2026-03-17",
+        "entry_price": 32.66
+      }
+    ],
+    "rebalancings": [
+      {
+        "date": "2026-04-16",
+        "sells": [
+          "BAMI.MI",
+          "UNI.MI"
+        ],
+        "buys": [
+          "FBK.MI",
+          "SAND.ST"
+        ]
+      },
+      {
+        "date": "2026-04-02",
+        "sells": [
+          "GLE.PA",
+          "IAG.L"
+        ],
+        "buys": [
+          "BBVA.MC",
+          "UNI.MI"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "sells": [
+          "BBVA.MC",
+          "BOL.ST",
+          "HOT.DE"
+        ],
+        "buys": [
+          "BAMI.MI",
+          "IAG.L",
+          "WRT1V.HE"
+        ]
+      },
+      {
+        "date": "2026-03-03",
+        "sells": [
+          "DBK.DE"
+        ],
+        "buys": [
+          "BMED.MI"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "sells": [
+          "HEI.DE"
+        ],
+        "buys": [
+          "BOL.ST"
+        ]
+      },
+      {
+        "date": "2026-02-03",
+        "sells": [
+          "BOL.ST",
+          "KCR.HE"
+        ],
+        "buys": [
+          "HOT.DE",
+          "ISP.MI"
+        ]
+      },
+      {
+        "date": "2026-01-16",
+        "sells": [
+          "ISP.MI"
+        ],
+        "buys": [
+          "BOL.ST"
+        ]
+      },
+      {
+        "date": "2025-12-16",
+        "sells": [
+          "AZA.ST",
+          "FBK.MI"
+        ],
+        "buys": [
+          "BPE.MI",
+          "ISP.MI"
+        ]
+      },
+      {
+        "date": "2025-12-02",
+        "sells": [
+          "AZM.MI",
+          "BZU.MI"
+        ],
+        "buys": [
+          "AZA.ST",
+          "KCR.HE"
+        ]
+      },
+      {
+        "date": "2025-11-18",
+        "sells": [
+          "AZA.ST",
+          "SIE.DE"
+        ],
+        "buys": [
+          "BZU.MI",
+          "SAB.MC"
+        ]
+      },
+      {
+        "date": "2025-11-04",
+        "sells": [
+          "KCR.HE",
+          "PRY.MI",
+          "SAVE.ST"
+        ],
+        "buys": [
+          "AZM.MI",
+          "SIE.DE",
+          "STAN.L"
+        ]
+      },
+      {
+        "date": "2025-10-16",
+        "sells": [
+          "AZM.MI",
+          "WRT1V.HE"
+        ],
+        "buys": [
+          "FBK.MI",
+          "PRY.MI"
+        ]
+      },
+      {
+        "date": "2025-10-02",
+        "sells": [
+          "STAN.L"
+        ],
+        "buys": [
+          "AZM.MI"
+        ]
+      },
+      {
+        "date": "2025-09-02",
+        "sells": [
+          "BPE.MI",
+          "NWG.L",
+          "SIE.DE"
+        ],
+        "buys": [
+          "AZA.ST",
+          "BBVA.MC",
+          "SAN.MC"
+        ]
+      },
+      {
+        "date": "2025-08-18",
+        "sells": [
+          "BPSO.MI",
+          "RBI.VI"
+        ],
+        "buys": [
+          "BPE.MI",
+          "SIE.DE"
+        ]
+      },
+      {
+        "date": "2025-08-04",
+        "sells": [
+          "BMED.MI",
+          "BZU.MI"
+        ],
+        "buys": [
+          "BPSO.MI",
+          "RBI.VI"
+        ]
+      },
+      {
+        "date": "2025-07-16",
+        "sells": [
+          "RBI.VI",
+          "SGO.PA"
+        ],
+        "buys": [
+          "BMED.MI",
+          "STAN.L"
+        ]
+      },
+      {
+        "date": "2025-07-02",
+        "sells": [
+          "STAN.L"
+        ],
+        "buys": [
+          "BZU.MI"
+        ]
+      },
+      {
+        "date": "2025-06-17",
+        "sells": [
+          "FBK.MI"
+        ],
+        "buys": [
+          "WRT1V.HE"
+        ]
+      },
+      {
+        "date": "2025-06-03",
+        "sells": [
+          "AZA.ST",
+          "ICG.L"
+        ],
+        "buys": [
+          "FBK.MI",
+          "KCR.HE"
+        ]
+      }
+    ],
+    "hall_of_fame": [
+      {
+        "ticker": "KCR.HE",
+        "entry_date": "2025-12-02",
+        "exit_date": "2026-02-03",
+        "entry_price": 28.71,
+        "exit_price": 33.69,
+        "pnl_pct": 17.35,
+        "days": 63
+      },
+      {
+        "ticker": "BOL.ST",
+        "entry_date": "2026-01-16",
+        "exit_date": "2026-02-03",
+        "entry_price": 572.2,
+        "exit_price": 660.6,
+        "pnl_pct": 15.45,
+        "days": 18
+      },
+      {
+        "ticker": "BAMI.MI",
+        "entry_date": "2026-03-17",
+        "exit_date": "2026-04-16",
+        "entry_price": 11.66,
+        "exit_price": 13.05,
+        "pnl_pct": 11.92,
+        "days": 30
+      },
+      {
+        "ticker": "HOT.DE",
+        "entry_date": "2026-02-03",
+        "exit_date": "2026-03-17",
+        "entry_price": 365.4,
+        "exit_price": 402.0,
+        "pnl_pct": 10.02,
+        "days": 42
+      },
+      {
+        "ticker": "UNI.MI",
+        "entry_date": "2026-04-02",
+        "exit_date": "2026-04-16",
+        "entry_price": 20.56,
+        "exit_price": 22.26,
+        "pnl_pct": 8.27,
+        "days": 14
+      }
+    ],
+    "currency": "EUR",
+    "last_updated": "2026-04-17 15:20 UTC"
+  }
+}
