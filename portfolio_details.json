@@ -44,7 +44,7 @@
       {
         "ticker": "Q",
         "entry_date": "2026-05-04",
-        "entry_price": 141.04
+        "entry_price": 141.06
       },
       {
         "ticker": "UAL",
@@ -312,7 +312,7 @@
       }
     ],
     "currency": "USD",
-    "last_updated": "2026-05-13 05:33 UTC"
+    "last_updated": "2026-05-14 05:35 UTC"
   },
   "us_b_10": {
     "positions": [
@@ -324,7 +324,7 @@
       {
         "ticker": "C",
         "entry_date": "2026-05-04",
-        "entry_price": 125.64
+        "entry_price": 125.63
       },
       {
         "ticker": "CFG",
@@ -609,7 +609,7 @@
       }
     ],
     "currency": "USD",
-    "last_updated": "2026-05-13 05:33 UTC"
+    "last_updated": "2026-05-14 05:35 UTC"
   },
   "eur_12": {
     "positions": [
@@ -938,6 +938,6 @@
       }
     ],
     "currency": "EUR",
-    "last_updated": "2026-05-13 05:33 UTC"
+    "last_updated": "2026-05-14 05:35 UTC"
   }
 }
