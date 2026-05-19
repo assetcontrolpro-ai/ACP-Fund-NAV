@@ -22,6 +22,11 @@
         "entry_price": 27.31
       },
       {
+        "ticker": "FIX",
+        "entry_date": "2026-05-18",
+        "entry_price": 1853.84
+      },
+      {
         "ticker": "GEV",
         "entry_date": "2025-12-02",
         "entry_price": 600.77
@@ -44,15 +49,19 @@
       {
         "ticker": "Q",
         "entry_date": "2026-05-04",
-        "entry_price": 141.06
-      },
-      {
-        "ticker": "UAL",
-        "entry_date": "2025-08-18",
-        "entry_price": 102.37
+        "entry_price": 141.04
       }
     ],
     "rebalancings": [
+      {
+        "date": "2026-05-18",
+        "sells": [
+          "UAL"
+        ],
+        "buys": [
+          "FIX"
+        ]
+      },
       {
         "date": "2026-05-04",
         "sells": [
@@ -253,15 +262,6 @@
         "buys": [
           "KLAC"
         ]
-      },
-      {
-        "date": "2025-06-03",
-        "sells": [
-          "KLAC"
-        ],
-        "buys": [
-          "CRWD"
-        ]
       }
     ],
     "hall_of_fame": [
@@ -278,8 +278,8 @@
         "ticker": "FIX",
         "entry_date": "2026-01-02",
         "exit_date": "2026-03-03",
-        "entry_price": 1003.12,
-        "exit_price": 1390.44,
+        "entry_price": 1002.73,
+        "exit_price": 1389.89,
         "pnl_pct": 38.61,
         "days": 60
       },
@@ -312,7 +312,7 @@
       }
     ],
     "currency": "USD",
-    "last_updated": "2026-05-16 05:43 UTC"
+    "last_updated": "2026-05-19 05:42 UTC"
   },
   "us_b_10": {
     "positions": [
@@ -324,7 +324,12 @@
       {
         "ticker": "C",
         "entry_date": "2026-05-04",
-        "entry_price": 125.63
+        "entry_price": 125.64
+      },
+      {
+        "ticker": "CAT",
+        "entry_date": "2026-05-18",
+        "entry_price": 863.95
       },
       {
         "ticker": "CFG",
@@ -337,9 +342,9 @@
         "entry_price": 593.66
       },
       {
-        "ticker": "DD",
-        "entry_date": "2026-02-03",
-        "entry_price": 45.12
+        "ticker": "GE",
+        "entry_date": "2026-05-18",
+        "entry_price": 285.99
       },
       {
         "ticker": "GS",
@@ -357,17 +362,25 @@
         "entry_price": 129.75
       },
       {
-        "ticker": "PH",
-        "entry_date": "2024-05-02",
-        "entry_price": 520.35
-      },
-      {
-        "ticker": "TEL",
-        "entry_date": "2025-12-16",
-        "entry_price": 226.22
+        "ticker": "ROK",
+        "entry_date": "2026-05-18",
+        "entry_price": 436.36
       }
     ],
     "rebalancings": [
+      {
+        "date": "2026-05-18",
+        "sells": [
+          "DD",
+          "PH",
+          "TEL"
+        ],
+        "buys": [
+          "CAT",
+          "GE",
+          "ROK"
+        ]
+      },
       {
         "date": "2026-05-04",
         "sells": [
@@ -550,18 +563,18 @@
         "buys": [
           "HBAN"
         ]
-      },
-      {
-        "date": "2025-06-03",
-        "sells": [
-          "INTU"
-        ],
-        "buys": [
-          "EMR"
-        ]
       }
     ],
     "hall_of_fame": [
+      {
+        "ticker": "DD",
+        "entry_date": "2026-02-03",
+        "exit_date": "2026-05-18",
+        "entry_price": 44.94,
+        "exit_price": 48.64,
+        "pnl_pct": 8.23,
+        "days": 104
+      },
       {
         "ticker": "AXP",
         "entry_date": "2026-04-02",
@@ -575,8 +588,8 @@
         "ticker": "EMR",
         "entry_date": "2025-11-18",
         "exit_date": "2025-12-02",
-        "entry_price": 126.26,
-        "exit_price": 131.33,
+        "entry_price": 125.75,
+        "exit_price": 130.8,
         "pnl_pct": 4.02,
         "days": 14
       },
@@ -593,30 +606,21 @@
         "ticker": "TFC",
         "entry_date": "2025-11-04",
         "exit_date": "2025-11-18",
-        "entry_price": 42.79,
-        "exit_price": 43.9,
-        "pnl_pct": 2.59,
+        "entry_price": 42.35,
+        "exit_price": 43.44,
+        "pnl_pct": 2.57,
         "days": 14
-      },
-      {
-        "ticker": "TRMB",
-        "entry_date": "2025-11-04",
-        "exit_date": "2025-12-16",
-        "entry_price": 78.6,
-        "exit_price": 80.5,
-        "pnl_pct": 2.42,
-        "days": 42
       }
     ],
     "currency": "USD",
-    "last_updated": "2026-05-16 05:43 UTC"
+    "last_updated": "2026-05-19 05:42 UTC"
   },
   "eur_12": {
     "positions": [
       {
-        "ticker": "AZM.MI",
-        "entry_date": "2026-05-04",
-        "entry_price": 35.51
+        "ticker": "ACS.MC",
+        "entry_date": "2026-05-18",
+        "entry_price": 131.7
       },
       {
         "ticker": "BARC.L",
@@ -639,14 +643,14 @@
         "entry_price": 10.92
       },
       {
-        "ticker": "DBK.DE",
-        "entry_date": "2026-05-04",
-        "entry_price": 25.95
-      },
-      {
         "ticker": "ISP.MI",
         "entry_date": "2026-02-03",
         "entry_price": 6.07
+      },
+      {
+        "ticker": "LLOY.L",
+        "entry_date": "2026-05-18",
+        "entry_price": 95.24
       },
       {
         "ticker": "SAB.MC",
@@ -675,6 +679,17 @@
       }
     ],
     "rebalancings": [
+      {
+        "date": "2026-05-18",
+        "sells": [
+          "AZM.MI",
+          "DBK.DE"
+        ],
+        "buys": [
+          "ACS.MC",
+          "LLOY.L"
+        ]
+      },
       {
         "date": "2026-05-04",
         "sells": [
@@ -879,15 +894,6 @@
         "buys": [
           "BZU.MI"
         ]
-      },
-      {
-        "date": "2025-06-17",
-        "sells": [
-          "FBK.MI"
-        ],
-        "buys": [
-          "WRT1V.HE"
-        ]
       }
     ],
     "hall_of_fame": [
@@ -931,13 +937,13 @@
         "ticker": "UNI.MI",
         "entry_date": "2026-04-02",
         "exit_date": "2026-04-16",
-        "entry_price": 20.56,
-        "exit_price": 22.26,
-        "pnl_pct": 8.27,
+        "entry_price": 19.52,
+        "exit_price": 21.13,
+        "pnl_pct": 8.25,
         "days": 14
       }
     ],
     "currency": "EUR",
-    "last_updated": "2026-05-16 05:43 UTC"
+    "last_updated": "2026-05-19 05:42 UTC"
   }
 }
