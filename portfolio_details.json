@@ -312,7 +312,7 @@
       }
     ],
     "currency": "USD",
-    "last_updated": "2026-06-04 05:32 UTC"
+    "last_updated": "2026-06-05 05:33 UTC"
   },
   "us_b_10": {
     "positions": [
@@ -613,7 +613,7 @@
       }
     ],
     "currency": "USD",
-    "last_updated": "2026-06-04 05:32 UTC"
+    "last_updated": "2026-06-05 05:33 UTC"
   },
   "eur_12": {
     "positions": [
@@ -944,6 +944,6 @@
       }
     ],
     "currency": "EUR",
-    "last_updated": "2026-06-04 05:33 UTC"
+    "last_updated": "2026-06-05 05:33 UTC"
   }
 }
