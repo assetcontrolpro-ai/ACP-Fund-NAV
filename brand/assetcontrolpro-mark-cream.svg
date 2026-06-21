@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 1 104 104" width="104" height="104" role="img" aria-label="AssetControlPro">
+  <path d="M 44.91 10.00 L 47.31 10.00 L 72.72 87.53 L 69.85 88.47 Z" fill="#EFE7D6"/>
+  <line x1="45.72" y1="10.0" x2="45.72" y2="63.13" stroke="#EFE7D6" stroke-width="4.19" stroke-linecap="round"/>
+  <line x1="45.72" y1="69.89" x2="45.72" y2="88.0" stroke="#EFE7D6" stroke-width="4.19" stroke-linecap="round"/>
+  <line x1="18.0" y1="78.15" x2="18.0" y2="88.0" stroke="#EFE7D6" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="24.95" y1="55.88" x2="24.95" y2="88.0" stroke="#EFE7D6" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="31.79" y1="37.77" x2="31.79" y2="69.89" stroke="#EFE7D6" stroke-width="2.63" stroke-linecap="round"/>
+  <line x1="31.79" y1="78.15" x2="31.79" y2="88.0" stroke="#EFE7D6" stroke-width="2.63" stroke-linecap="round"/>
+  <line x1="38.74" y1="22.26" x2="39.14" y2="51.67" stroke="#EFE7D6" stroke-width="3.15" stroke-linecap="round"/>
+  <line x1="38.74" y1="59.4" x2="38.74" y2="88.0" stroke="#EFE7D6" stroke-width="3.15" stroke-linecap="round"/>
+  <rect x="68.44" y="80.78" width="13.60" height="14.41" fill="#C8873A"/>
+</svg>
